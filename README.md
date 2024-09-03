@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Linux for System Administration.**
 
-- 👯 I’m looking to collaborate on **developing ERP systems.**
+- :thumbsup: I’m looking to collaborate on **developing ERP systems.**
 
 - 📫 How to reach me **waiyanlinn.netuser@gmail.com**
 <!---
